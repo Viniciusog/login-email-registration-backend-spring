@@ -16,7 +16,7 @@
  2 - Crie um banco de dados no MySQL, chamado ```dbregistration``` <br>
  3 - Abra o projeto na sua IDE e execute o arquivo ```RegistrationprojectApplication``` <br>
  4 - Se tudo der certo, o programa irá iniciar em: ```http://localhost:8080/api/v1/registration/``` <br>
- 5 - Abra o postman, coloque ```http://localhost:8080/api/v1/registration/```, selecione POST e coloque o json a seguir:
+ 5 - Abra o postman, coloque ```http://localhost:8080/api/v1/registration/```, selecione POST e insira o json a seguir:
  ```json
  {
   "firstname": "João",
